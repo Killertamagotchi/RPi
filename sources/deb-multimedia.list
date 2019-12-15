@@ -1,0 +1,4 @@
+deb http://www.deb-multimedia.org buster main non-free
+#deb ftp://ftp.deb-multimedia.org buster main non-free
+deb http://www.deb-multimedia.org stable main non-free
+#deb ftp://ftp.deb-multimedia.org stable main non-free
