@@ -17,3 +17,12 @@ sudo wget https://raw.githubusercontent.com/Killertamagotchi/RPi/master/sources/
 Add Repos Key to Raspbian:
 wget http://www.deb-multimedia.org/pool/main/d/deb-multimedia-keyring/deb-multimedia-keyring_2016.8.1_all.deb
 sudo dpkg -i deb-multimedia-keyring_2016.8.1_all.deb
+___________________________________________________________________________________________________________________________________
+
+MKVToolNix Repos for Raspbian
+
+Add Repos List to Raspbian:
+sudo wget https://raw.githubusercontent.com/Killertamagotchi/RPi/master/sources/mkvtoolnix.download.list -O /etc/apt/sources.list.d/mkvtoolnix.download.list
+
+Add Repos Key to Raspbian:
+wget -q -O - https://mkvtoolnix.download/gpg-pub-moritzbunkus.txt | sudo apt-key add -
