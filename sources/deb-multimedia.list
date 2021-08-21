@@ -1,31 +1,30 @@
 ## Main
 
 deb https://www.deb-multimedia.org buster main non-free
-deb ftp://ftp.deb-multimedia.org buster main non-free
+#deb ftp://ftp.deb-multimedia.org buster main non-free
 deb https://www.deb-multimedia.org oldstable main non-free
-deb ftp://ftp.deb-multimedia.org oldstable main non-free
-deb https://www.deb-multimedia.org buster main non-free
-deb https://www.deb-multimedia.org buster-backports main
-deb ftp://ftp.deb-multimedia.org oldstable main non-free
-deb ftp://ftp.deb-multimedia.org oldstable-backports main
+#deb ftp://ftp.deb-multimedia.org oldstable main non-free
+#deb https://www.deb-multimedia.org buster-backports main
+#deb ftp://ftp.deb-multimedia.org oldstable main non-free
+#deb ftp://ftp.deb-multimedia.org oldstable-backports main
 deb-src http://www.deb-multimedia.org sid main
-deb-src ftp://ftp.deb-multimedia.org sid main
+#deb-src ftp://ftp.deb-multimedia.org sid main
 
 ## Germany mirror	
-#deb http://debian-mirrors.sdinet.de/deb-multimedia/ stable main
-#deb-src http://debian-mirrors.sdinet.de/deb-multimedia/ stable main
+deb http://debian-mirrors.sdinet.de/deb-multimedia/ stable main
+deb-src http://debian-mirrors.sdinet.de/deb-multimedia/ stable main
 
-#deb http://debian.ids-services.de/debian-multimedia/ stable main
-#deb-src http://debian.ids-services.de/debian-multimedia/ stable main
+deb http://debian.ids-services.de/debian-multimedia/ stable main
+deb-src http://debian.ids-services.de/debian-multimedia/ stable main
 
-#deb http://ftp.uni-kl.de/debian-multimedia/ stable main
-#deb-src http://ftp.uni-kl.de/debian-multimedia/ stable main
+deb http://ftp.uni-kl.de/debian-multimedia/ stable main
+deb-src http://ftp.uni-kl.de/debian-multimedia/ stable main
 
 #deb ftp://ftp.uni-kl.de/debian-multimedia/ stable main
 #deb-src ftp://ftp.uni-kl.de/debian-multimedia/ stable main
 
-#deb https://ftp-stud.hs-esslingen.de/pub/Mirrors/debian-multimedia/ stable main
-#deb-src https://ftp-stud.hs-esslingen.de/pub/Mirrors/debian-multimedia/ stable main
+deb https://ftp-stud.hs-esslingen.de/pub/Mirrors/debian-multimedia/ stable main
+deb-src https://ftp-stud.hs-esslingen.de/pub/Mirrors/debian-multimedia/ stable main
 
 #deb ftp://ftp-stud.hs-esslingen.de/pub/Mirrors/debian-multimedia/ stable main
 #deb-src ftp://ftp-stud.hs-esslingen.de/pub/Mirrors/debian-multimedia/ stable main
