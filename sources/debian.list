@@ -5,7 +5,7 @@
 ###### Debian Main Repos
 deb-src http://deb.debian.org/debian stable main contrib non-free
 deb-src http://deb.debian.org/debian stable-updates main contrib non-free
-deb-src http://deb.debian.org/debian-security stable/updates main
+deb-src http://deb.debian.org/debian-security/ stable/updates main
 deb-src http://ftp.debian.org/debian buster-backports main
 
 deb http://deb.debian.org/debian buster main
