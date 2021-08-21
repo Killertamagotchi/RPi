@@ -1,2 +1,5 @@
-deb https://mkvtoolnix.download/raspbian/ buster main
-deb-src https://mkvtoolnix.download/raspbian/ buster main
+# deb https://mkvtoolnix.download/raspbian/ buster main
+# deb-src https://mkvtoolnix.download/raspbian/ buster main
+
+deb [signed-by=/usr/share/keyrings/gpg-pub-moritzbunkus.gpg] https://mkvtoolnix.download/raspbian/ b$
+deb-src [signed-by=/usr/share/keyrings/gpg-pub-moritzbunkus.gpg] https://mkvtoolnix.download/raspbia$
