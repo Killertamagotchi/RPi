@@ -1,2 +1,8 @@
-deb https://mkvtoolnix.download/raspbian/ buster main
+## Debian 10 (Buster)
+
+#deb https://mkvtoolnix.download/raspbian/ buster main
 # deb-src https://mkvtoolnix.download/raspbian/ buster main
+
+## Debian 11 (Bullseye)
+deb [signed-by=/usr/share/keyrings/gpg-pub-moritzbunkus.gpg] https://mkvtoolnix.download/debian/ bullseye main
+deb-src [signed-by=/usr/share/keyrings/gpg-pub-moritzbunkus.gpg] https://mkvtoolnix.download/debian/ bullseye main
