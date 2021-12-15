@@ -13,13 +13,12 @@
 ## Debian 11 (Bullseye)
 
 deb https://www.deb-multimedia.org bullseye main non-free
-deb ftp://ftp.deb-multimedia.org bullseye main non-free
+#deb ftp://ftp.deb-multimedia.org bullseye main non-free
 deb https://www.deb-multimedia.org stable main non-free
-deb ftp://ftp.deb-multimedia.org stable main non-free
+#deb ftp://ftp.deb-multimedia.org stable main non-free
 deb https://www.deb-multimedia.org bullseye main non-free
 deb https://www.deb-multimedia.org bullseye-backports main
-deb ftp://ftp.deb-multimedia.org bullseye main non-free
-deb ftp://ftp.deb-multimedia.org bullseye-backports main
+#deb ftp://ftp.deb-multimedia.org bullseye main non-free
+#deb ftp://ftp.deb-multimedia.org bullseye-backports main
 deb https://www.deb-multimedia.org stable main non-free
 deb https://www.deb-multimedia.org stable-backports main
-deb ftp://ftp.deb-multimedia.org stable main non-free deb ftp://ftp.deb-multimedia.org stable-backports main
