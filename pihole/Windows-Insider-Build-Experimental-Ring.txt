@@ -2,23 +2,29 @@
 insideruser.microsoft.com
 
 # Windows Update & Bereitstellungskanäle (wichtig für Pre-Release Builds)
-ctldl.windowsupdate.com
+windowsupdate.com
 settings-win.data.microsoft.com
 slscr.update.microsoft.com
+sls.update.microsoft.com
+fe3cr.delivery.mp.microsoft.com
 
 # Windows Experimentation- & Konfigurations-Dienste
 clientconfig.passport.net
-arc.msn.com
+msn.com
 
+# Diagnose- & Telemetriedaten (Zwingend erforderlich für Insider/Experimental Status)
 self.events.data.microsoft.com
-settings-win.data.microsoft.com
 v10.events.data.microsoft.com
 v10c.events.data.microsoft.com
 v20.events.data.microsoft.com
-watson.telemetry.microsoft.com
 vortex-win.data.microsoft.com
+
+# Windows Error Reporting (Übermittlung von Absturzberichten in Test-Builds)
+watson.telemetry.microsoft.com
+
+# Connected Devices Platform (Steuerung & Zuweisung von Insider-Build-Flügen)
 flighting.api.cdp.microsoft.com
-sls.update.microsoft.com
-fe3cr.delivery.mp.microsoft.com
+
+# Network Connectivity Status Indicator (Verhindert "Kein Internet"-Fehlmeldungen)
 msftncsi.com
 msftconnecttest.com
