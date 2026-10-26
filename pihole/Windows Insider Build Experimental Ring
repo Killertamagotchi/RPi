@@ -1,0 +1,13 @@
+self.events.data.microsoft.com
+settings-win.data.microsoft.com
+v10.events.data.microsoft.com
+v10c.events.data.microsoft.com
+v20.events.data.microsoft.com
+watson.telemetry.microsoft.com
+vortex-win.data.microsoft.com
+flighting.api.cdp.microsoft.com
+sls.update.microsoft.com
+fe3cr.delivery.mp.microsoft.com
+msftncsi.com
+msftconnecttest.com
+(\.|^)delivery\.mp\.microsoft\.com$
