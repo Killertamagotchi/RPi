@@ -1,3 +1,15 @@
+# Core Insider & Flighting Validierung
+insideruser.microsoft.com
+
+# Windows Update & Bereitstellungskanäle (wichtig für Pre-Release Builds)
+ctldl.windowsupdate.com
+settings-win.data.microsoft.com
+slscr.update.microsoft.com
+
+# Windows Experimentation- & Konfigurations-Dienste
+clientconfig.passport.net
+arc.msn.com
+
 self.events.data.microsoft.com
 settings-win.data.microsoft.com
 v10.events.data.microsoft.com
@@ -10,4 +22,3 @@ sls.update.microsoft.com
 fe3cr.delivery.mp.microsoft.com
 msftncsi.com
 msftconnecttest.com
-(\.|^)delivery\.mp\.microsoft\.com$
